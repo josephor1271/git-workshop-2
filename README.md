@@ -2,3 +2,7 @@
 More playing around with git!
 
 I am in Austin
+
+Classes:
+chemistry
+biology
