@@ -2,3 +2,6 @@
 More playing around with git!
 
 I am in Canada.
+
+Class:
+Math Modelling
