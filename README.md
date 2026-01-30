@@ -1,8 +1,8 @@
 # git-workshop-2
 More playing around with git!
 
-I am in Cambridge
+Hi here from San Antonio
 
-Classes:
+Classes
 Fourier Analysis
 Statistical Data Analysis
